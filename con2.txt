@@ -1,2 +1,6 @@
 hello 
+<<<<<<< HEAD
 tao la con heo
+=======
+tao la con cua
+>>>>>>> main
